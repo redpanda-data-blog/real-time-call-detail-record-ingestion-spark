@@ -1,0 +1,13 @@
+[
+  {"customer_id": "C001", "call_date": "2024-02-01", "call_duration": 5, "feedback_score": 3},
+  {"customer_id": "C001", "call_date": "2024-02-01", "call_duration": 7, "feedback_score": 4},
+  {"customer_id": "C002", "call_date": "2024-02-01", "call_duration": 10, "feedback_score": 5},
+  {"customer_id": "C003", "call_date": "2024-02-01", "call_duration": 15, "feedback_score": 4},
+  {"customer_id": "C004", "call_date": "2024-02-01", "call_duration": 17, "feedback_score": 4},
+  {"customer_id": "C005", "call_date": "2024-02-01", "call_duration": 20, "feedback_score": 5},
+  {"customer_id": "C006", "call_date": "2024-02-01", "call_duration": 25, "feedback_score": 5},
+  {"customer_id": "C007", "call_date": "2024-02-01", "call_duration": 9, "feedback_score": 4},
+  {"customer_id": "C008", "call_date": "2024-02-01", "call_duration": 4, "feedback_score": 5},
+  {"customer_id": "C009", "call_date": "2024-02-01", "call_duration": 5, "feedback_score": 2},
+  {"customer_id": "C010", "call_date": "2024-02-01", "call_duration": 8, "feedback_score": 3}
+]
